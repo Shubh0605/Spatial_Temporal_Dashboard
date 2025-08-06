@@ -225,5 +225,3 @@ For questions regarding this implementation:
 - Review the source code comments
 - Check browser developer console for errors
 - Ensure proper API connectivity
-
-Built with ❤️ for Mind Webs Ventures internship evaluation.
